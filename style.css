@@ -1,0 +1,97 @@
+*{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    margin : 0 0 0 0;
+  
+}
+
+
+.location{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   height: 50px;
+
+}
+header{
+    position: fixed;
+    width: 100%;
+}
+.location-logo{
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+}
+
+.location-text{
+    margin-right: 20px;
+    font-size: 14px;
+    font-weight: 500;
+}
+.set-location-btn{
+    font-size: 12px;
+    font-weight: 600;
+    background-color: #202124;
+    border-color: rgb(73, 73, 73);
+    border-radius: 30px;
+    color: rgb(255, 255, 255);
+    width: 105px;
+    height: 34px;
+    padding: 6px;
+}
+.menu-class{
+    display: flex;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    border-top: 1px solid rgb(180, 180, 180);
+}
+.first-menu{
+    background-color: rgb(255, 255, 255);
+    width: 600px;
+    margin-top: 40px;
+    display: flex;
+}
+.right-menu{
+    display: flex;
+    margin-left: 600px;
+}
+.kfc-logo{
+    margin-left: 130px;
+    width: 80px;
+    margin-bottom: 10px;
+}
+a{
+    text-decoration: none;
+    margin-right: 30px;
+    margin-left: 30px;
+    color: black;
+    font-size: 14px;
+    font-size: 14px;
+    font-weight: 600;
+    padding-bottom: 5px;
+}
+.menu-text{
+    background-color: rgb(255, 255, 255);
+       
+}
+.second1{
+    display: flex;
+    align-items: center;
+    width: 300px;
+   
+
+}
+.signin-border{
+    width: 60px;
+    height: 20px;
+    border-right: 1px solid rgb(182, 182, 182);
+  
+}
+.acc-logo{
+    width: 20px;
+}
+.bucket-logo{
+    width: 50px;
+}
+
